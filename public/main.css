@@ -1,0 +1,291 @@
+.wow {
+    visibility: hidden;
+  }
+  .pricing_container {
+    border-style: solid;
+    min-height: 450px;
+    text-align: center;
+    background: rgb(28 15 97 / 0.8);
+    border: 2px solid rgba(0,0,0,0.02);
+    color: white;
+    margin-bottom: 10px;
+  }
+  .flat-client .client{
+     opacity: 1;
+  }
+  p.features {
+    font-weight: 100;
+    text-align: center;
+  }
+  
+  .move_button a {
+    color: white !important;
+  }
+  
+  .move_button a:hover {
+      color: #ffffff !important;
+      text-decoration: none !important;
+      background-color: #ff7742;
+  }
+  
+  .button {
+    /* Rectangle 2: */
+    border: 1px solid #FFFFFF;
+    padding: 10px 15px 10px 15px;
+  }
+  .move_button {
+    margin-top: 50px;
+  }
+  
+  .pricing_title {
+    margin-top: 40px;
+    font-weight: 300;
+    color: #fff;
+  }
+  
+  .price_text {
+    font-size: 64px;
+    font-weight: 400;
+    margin-bottom: 40px;
+  }
+  .move_down {
+    margin-top: 20px;
+  }
+  
+  .buy_now_text {
+    font-weight: 300;
+    letter-spacing: 2px;
+    margin: 0 auto;
+  }
+  
+  hr.line {
+    border-color: white;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    max-width: 40px;
+  }
+  .member_detail {
+      width: 100%;
+      margin: 0px auto;
+      margin: 25px 0px 0px 0px;
+      border-radius: 0px;
+      background: #1c0f61;
+      border-radius: 5px;
+      padding: 20px;
+      background-position: 100% 120%;
+  }
+  .member_detail table tr:last-child {
+      border-bottom: none;
+  }
+  .member_detail table tr{
+      border-bottom: 1px solid #fff;
+  }
+  .member_detail table th {
+      padding: 10px;
+      background: #ff7742;
+      color: #fff;
+      border: 2px solid;
+  }
+  .member_detail table tr td {
+      color: #fff;
+       padding: 10px;
+       border:none;
+  }
+  .mainlogo {
+      text-align: center;
+      margin-bottom: 30px;
+  }
+  .mainlogo img{
+      width: 300px;
+  }
+  .widget-nav-menu ul li::after{
+      display:none;
+  }
+  .widget-nav-menu ul li{
+      margin-bottom: 10px;
+      background: rgb(28 15 97 / 0.8);
+      border-radius: 5px;
+  }
+  .widget.widget-nav-menu ul li a{
+      color: #fff;
+  }
+  .single-post .project-info{
+  box-shadow: 0px 0px 4px;
+  }
+  .pricing-item, .social-links.style3.team a:hover {
+      background-color: rgb(28 15 97 / 0.2);
+  }
+  .flat-counter .name-count{
+      text-transform: uppercase;
+  }
+  .wrap-form span.flat-select:after{
+          top: 45px;
+  }
+  .form-control:disabled, .form-control[readonly] {
+      background-color: #1c0f61;
+      opacity: 1;
+      border: none;
+      color: #fff;
+      font-size: 18px;
+  }
+  .flat-input p{
+      color: #fff;
+      font-size: 16px;
+      text-transform: uppercase;
+      text-align: center;
+      padding-bottom: 10px;
+  }
+  /* account css start */
+  .under_x {
+      background: #1c0f61;
+      margin: 10px 5px;
+      text-align: center;
+      padding: 10px 0px;
+      color: #f7921e;
+      font-size: 14px;
+      border-radius: 20px;
+  }
+  .info_u {
+      display: inline-block;
+      padding: 15px 10px;
+  }
+  .w {
+      padding: 40px 20px;
+      background: none;
+      border-radius: 5px 5px 20px 20px;
+      box-shadow: 0px 15px #ff7742, 0px 0px 45px rgba(37,13,18,0.4);
+      margin: 5px 5px 25px;
+  }
+  .box_acc {
+      background: rgb(28 15 97 / 0.2);
+      border-radius: 20px;
+      height: 120px;
+      width: 32%;
+      margin: 10px 2px;
+      display: inline-block;
+      color: #1c0f61;
+      box-shadow: 0px 8px #1c0f61;
+      overflow: hidden;
+  }
+  .acc_txts {
+      font-size: 20px;
+      height: 50px;
+      text-align: center;
+      line-height: 50px;
+  }
+  .acc_data {
+      background: #1c0f61;
+      border-radius: 20px;
+      padding: 5px 10px;
+      margin: 5px 10px;
+      color: #f16f3e;
+      font-size: 20px;
+  }
+  .withd_box {
+      background: #1c0f61;
+      border-radius: 20px;
+      padding: 20px 0px;
+      margin: 5px;
+  }
+  .headline_st {
+      color: #ff7742;
+      font-size: 18px;
+      text-transform: uppercase;
+  }
+  .bs_line2 {
+      height: 35px;
+      line-height: 33px;
+      color: #1c0f61;
+      text-align: left;
+      padding-left: 40px;
+      font-size: 16px;
+      display: block;
+      margin: 6px 20px;
+      background: #ee6e3d;
+      transition: background 250ms ease-in-out;
+      border-radius: 20px;
+  }
+  .bs_line2:nth-child(2n) {
+      color: #ee6e3d;
+      background: none;
+  }
+  .dep_box {
+      background: #d1cfdf;
+      border-radius: 20px;
+      padding: 20px 0px;
+      margin: 5px;
+  }
+  .headline_st2 {
+      color: #1c0f61;
+      font-size: 18px;
+      text-transform: uppercase;
+  }
+  .bs_line:nth-child(2n) {
+      color: #1c0f61;
+      background: none;
+  }
+  .bs_line {
+      height: 35px;
+      line-height: 33px;
+      color: #fff;
+      text-align: left;
+      padding-left: 40px;
+      font-size: 16px;
+      display: block;
+      margin: 6px 20px;
+      background: #1c0f61;
+      transition: background 250ms ease-in-out;
+      border-radius: 20px;
+  }
+  .gs_txt {
+      float: right;
+      width: 140px;
+      padding: 0px 20px 0px 10px;
+      text-align: right;
+  }
+  input[type="submit"] {
+      font-size: 14px;
+      font-weight: 700;
+      color: #28293a;
+      text-transform: uppercase;
+      padding: 12px 24px;
+      background-color: #ff7742;
+      -webkit-transition: all 0.3s ease 0s;
+      -moz-transition: all 0.3s ease 0s;
+      -ms-transition: all 0.3s ease 0s;
+      -o-transition: all 0.3s ease 0s;
+      transition: all 0.3s ease 0s;
+  }
+  table{
+          background: rgb(28 15 97 / 0.2);
+          width:100%;
+  }
+  table td {
+      padding: 10px;
+      border: 1px solid #1c0f61;
+      color: #383232;
+  }
+  table th{
+      padding: 10px;
+      background: #1c0f61;
+      color: #fff;
+      border: 2px solid #1c0f61;
+  }
+  
+  .inheader {
+      background: #1c0f61;
+      color: #fff;
+  }
+  @media(max-width:767px){
+      .w{
+          padding: 40px 10px;
+      }
+      .box_acc{
+          width:100%;
+      }
+      .bs_line2{
+          padding-left:0px;
+      }
+  }
+  /* end css */
+  
