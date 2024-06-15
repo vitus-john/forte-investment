@@ -14,9 +14,8 @@ Frontend: Node.js (version 20 LTS or later recommended)
 
 Installation:
 
-1. Prerequisites:
-   Ensure you have Node.js version 20 LTS or later installed on your system. You can verify this by running `node -v` in your terminal. If not installed, download and install it from the official Node.js website ([https://nodejs.org/en](https://nodejs.org/en)).
-2. Clone the Repository:
+
+1. Clone the Repository:
     * Use Git to clone this repository to your local machine. You can follow these steps:
         * Open a terminal window.
         * Navigate to the desired directory where you want to clone the repository.
@@ -26,7 +25,7 @@ Installation:
           git clone <url>
           ```
 
-3. Install Dependencies:
+2. Install Dependencies:
     * Navigate to the cloned repository directory using the `cd` command in your terminal.
     * Run the following command to install the required Node.js modules:
 
